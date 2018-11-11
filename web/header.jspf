@@ -1,0 +1,6 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<link rel="stylesheet" href="css/estilo.css">
+<div class="bg-dark header">
+    <h1 class="text-center text-white">Controle de Empresas</h1>
+</div>
