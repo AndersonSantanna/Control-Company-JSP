@@ -69,7 +69,7 @@
                                 </td>
                                 <td>
                                     <a href="excluir?id=<%= empresa.getId()%>" title="Clique para excluir">
-                                        <i class="fas fa-trash-alt"></i>   
+                                        <i class="fas fa-trash-alt text-danger"></i>   
                                     </a>
                                 </td>
                             </tr>
